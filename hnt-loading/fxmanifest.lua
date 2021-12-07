@@ -1,6 +1,6 @@
 version '2.0.0'
 author 'Cfx.re / hnt-neptunium'
-description 'FiveM loading screen edited from the base example.'
+description 'This is a Cfx default resource for FiveM servers. Edited with love by Neptunium for Hybrid Networking.'
 
 files {
     'index.html',
