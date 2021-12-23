@@ -11,5 +11,5 @@ files {
 
 loadscreen 'index.html'
 
-fx_version 'bodacious'
+fx_version 'cerulean'
 game 'gta5'
