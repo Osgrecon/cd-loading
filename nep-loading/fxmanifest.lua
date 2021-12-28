@@ -5,7 +5,7 @@ files {
     'index.html',
     'main.css',
     'bankgothic.ttf',
-    'loadscreen.png'
+    'load.png'
 }
 
 loadscreen 'index.html'
