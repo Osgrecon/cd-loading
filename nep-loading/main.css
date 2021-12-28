@@ -119,13 +119,3 @@ h1:before, h2:before {
 
     color: #ddd;
 }
-
-.thingy
-{
-    width: 10%;
-    background-color: #eee;
-    height: 20px;
-
-    position: absolute;
-    left: 10%;
-}
