@@ -3,7 +3,7 @@ author 'neptunium'
 
 files {
     'index.html',
-    'keks.css',
+    'main.css',
     'bankgothic.ttf',
     'loadscreen.png'
 }
