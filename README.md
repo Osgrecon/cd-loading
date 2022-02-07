@@ -1,4 +1,4 @@
-# nep-loading
+# cd-loading
 Just a dummed down version of Bubble's [example](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Btest%5D/example-loadscreen).
 
 ![img](https://i.imgur.com/5Qldygx.png)
