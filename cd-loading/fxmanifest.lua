@@ -1,5 +1,4 @@
-version '2.1.0'
-author 'bubble/neptunium'
+version '1.3.5'
 
 files {
     'index.html',
